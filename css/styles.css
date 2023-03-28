@@ -1,0 +1,167 @@
+
+* {
+  color: #FFE4A3;
+  font-family: 'Montserrat', sans-serif;
+}
+
+body {
+    margin: 0;
+    text-align: center;
+}
+
+h1 {
+  font-size: 5em;
+  margin: 30px auto 0 auto;
+  font-family: 'Sacramento', sans-serif;
+  letter-spacing: 5px;
+  color: #FFE4A3;
+  line-height: 2;
+}
+
+h2 {
+  color: #324FAD;
+  font-size: 2.5rem;
+  text-decoration: bold;
+}
+
+h3 {
+  color: #6A70D4;
+  font-size: 1rem;
+}
+
+p {
+  color: #6A70D4;
+}
+
+hr {
+  width: 5%;
+  border-style: dotted none none;
+  border-color: #999CC2;
+  border-width: 7px;
+}
+
+.btn {
+  -webkit-border-radius: 12;
+  -moz-border-radius: 12;
+  border-radius: 12px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  background: #897999;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  font-family: 'Montserrat', sans-serif;
+  position: relative;
+  top: 50px;
+}
+
+.btn:hover {
+  background: #6273a6;
+  text-decoration: none;
+}
+
+.avatar {
+  height: 300px;
+}
+
+.code-img {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.coding-img {
+  width: 25%;
+  margin: 15px 0;
+  float: right;
+  margin-left: 30px;
+}
+
+.skill-row1 {
+  width: 50%;
+  margin: 100px auto 50px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 50px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.profile {
+  margin-bottom: 100px;
+}
+
+.skills {
+  margin: 100px 0;
+}
+
+.contact-me {
+  margin: 100px 0;
+  line-height: 2;
+}
+
+.top-container {
+  background-color: #897999;
+  padding: 100px 0 80px 0;
+  position: relative;
+}
+
+.mid-container {
+  background-color: #FFF3AD;
+  padding: 50px;
+}
+
+.bot-container {
+  background-color: #897999;
+  padding: 20px 0;
+  color: white;
+  font-size: 12px;
+}
+
+.computer {
+  height: 200px;
+  width: 200px;
+  margin-top: 100px;
+}
+
+.hello-h2 {
+  margin-bottom: 50px;
+}
+
+.footer-link {
+  text-decoration: none;
+  color: #17183b;
+  margin: 10px 20px;
+}
+
+a:hover {
+  color: white;
+}
+
+.footer-p {
+  color: #17183b;
+  padding: 20px 0 0 ;
+}
+
+.p-header {
+  letter-spacing: 5px;
+  font-size: 1.5rem;
+  color: #FFF3AD;
+}
+
+.top-cloud {
+  position: absolute;
+  height: 50px;
+  top: 50px;
+  right: 350px;
+}
+
+.bot-cloud {
+  position: absolute;
+  left: 350px;
+  height: 50px;
+}
